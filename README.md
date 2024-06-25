@@ -1,46 +1,5 @@
 # s21_matrix  
 
-> При старте работы над проектом просим тебя постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом, пожалуйста, ответь на два вопроса [в этом опросе](https://forms.gle/vpUwLY2KyV1B1B3o9)
-
-
-Implementation of the matrix.h library.   
-
-The russian version of the task can be found in the repository.
-
-
-## Contents  
-
-1. [Chapter I](#chapter-i) \
-   1.1. [Introduction](#introduction)
-2. [Chapter II](#chapter-ii) \
-   2.1. [Information](#information)
-3. [Chapter III](#chapter-iii) \
-   3.1. [Part 1](#part-1-implementation-of-the-matrixh-library-functions)
-
-
-# Chapter I  
-
-![matrix](misc/eng/images/matrixx.png)
-
-Planet Earth, September 13, 2000.  
-
-*-- Our CEO has such a wonderful country house! It has everything you need to realise your ideas. A veranda overlooking a huge swimming pool on the lawn completes the picture of a keen and intelligent person.*
-
-*- Yes, I agree, so glad we were invited here, this place is very energetic!*  
-
-*-- Absolutely! So, for a few days now, the main id Software technical team have been discussing the new technology we want to introduce in our upcoming game Doom 3. What creates the most sense of reality in an image? Obviously it's a game of light and shadows, which now takes too long to calculate and puts a lot of pressure on the CPU. John is known for his technological and algorithmic ideas and tricks that have led to crazy breakthroughs in speed and code optimisation.* \
-*What was I talking about... Our chief engineer and founder John Carmack presented a theoretical development that would allow you to cast shadows on a scene after it had gone through the entire graphics pipeline, using a depth and stencil buffer.* 
-
-*- Oh wow, it gives me goosebumps, tell me more!*
-
-*-- We didn't invite you to this party by chance, the whole team is working on a new way of creating shadows in a scene, and John has specifically tasked your department with implementing a very fast and optimised library of all sorts of matrix transformations that will underpin all the mathematical logic of the algorithm: vectors and matrices, transpose and SRT conversions, and many other mathematical objects and operations that are used in computer graphics.* \
-*FFor a proper and considered transition to the new method, we need a significant and impressive performance change, and you will be in charge of that!*
-
-*- My team and I are more than happy to help you, and are ready to get to work tomorrow!*
-
-*-- Perfect! Who knows, maybe one day it will be enough just to cast the rays to create light and shadow... but for now, we're limited by the technology of our time and have to roll with the punches, so let's do it! And yes, don't you dare miss deadlines, he doesn't like that.*
-
 ## Introduction
 
 In this project you will implement your own library for processing numerical matrices in the C programming language. Matrices are one of the basic data structures in programming, e.g. they are used to represent table values, for computational tasks and neural networks. As part of the project you will learn more about matrices and solidify knowledge of structured programming.
